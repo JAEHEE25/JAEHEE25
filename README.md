@@ -1,13 +1,4 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=JAEHEEE&textBg=false&desc=Backend%20Developer&descAlign=62&descAlignY=69&fontColor=000000&animation=twinkling" />
 
-<br>
-
-<p align="right">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJongHunJun%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
-
-<br>
 
 
 ## [ 📚 Skills ]
@@ -45,12 +36,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=y2hjjh)](https://solved.ac/y2hjjh/)
 
 </p>
-
-<br><br>
-  
-<p align="center">
-<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hello%20world!&l0=fafcff&l1=9fc3ea&l2=4080c4&l3=3061a1&l4=21466e"></a>
-
-
-
 
